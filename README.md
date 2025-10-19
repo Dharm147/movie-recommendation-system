@@ -67,5 +67,3 @@ _You will need these CSVs in your project directory, or edit the notebook code t
     for title, score in recommendations:
         print(f"{title} | Predicted Rating: {score:.2f}")
     ```
-## Project Structure
-
